@@ -1,0 +1,8 @@
+﻿  networkStudent.cpp
+  roster.cpp
+C:\Users\wdkin\OneDrive\Desktop\c867Final\roster.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating Code...
+  c867Final.vcxproj -> C:\Users\wdkin\OneDrive\Desktop\c867Final\Debug\c867Final.exe
